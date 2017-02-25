@@ -1,2 +1,2 @@
 print("Hello world")
-print("Toha is daun")
+print("Toha is daun;")
