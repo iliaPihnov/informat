@@ -1,4 +1,4 @@
-print("Hello world")
-print("Toha is daun")
-print("tasher322")
+print("Hello world;")
+print("Toha is daun;")
+print("tasher322;")
 print("ezpts")
